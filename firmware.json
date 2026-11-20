@@ -1,0 +1,20 @@
+{
+ "date": "2026-11-21",
+ "envelopes": "envelopes/2.0.0/",
+ "history": [
+  {
+   "notes": "notes/2.0.0.md",
+   "notes_sha256": "d9ceff334b755a7d27e1431cb182640bf4502b783d3921d7d99065b60c38526b",
+   "version": "2.0.0"
+  }
+ ],
+ "min_app": "2.1.19",
+ "modules": 1,
+ "notes": "notes/2.0.0.md",
+ "notes_sha256": "d9ceff334b755a7d27e1431cb182640bf4502b783d3921d7d99065b60c38526b",
+ "sha256": "d1d34f5401825297e8738e23f21d70f7b12717008b11d377f091c27ef517069f",
+ "signature": "0b7788ef902783bc03550bd1d58af6a9c8c505efa5a7dc0505d9aa236ab6006a01991ee092c20f6d02e5b37f8020e7cd571313b802ec7976155463982a288e66",
+ "size": 748916,
+ "url": "https://github.com/KMC-Workshop2024/KMFirmware/releases/download/v2.0.0/KMModule-2.0.0.fw",
+ "version": "2.0.0"
+}
