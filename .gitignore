@@ -1,0 +1,6 @@
+# only the signed manifest and the notes belong here; packages go to the releases
+*.fw
+*.bin
+*.elf
+*.pem
+*.key
