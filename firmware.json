@@ -27,8 +27,8 @@
  "modules": 1,
  "notes": "notes/2.0.3.md",
  "notes_sha256": "fb67f336f27a7984d35b9cfc44c0261af1f80a910002eba8025e60d6704b3c32",
- "sha256": "ba4efa1fdd425987fe7c1ce7bf56f541b4488c820b653d0d2e5d5d0792af447f",
- "signature": "38a892dc6672c31c3e983c8cb91c59638909b53fabc26d0b798f08fb7c49d4b574a6eee9494337a383489da97d8fd3d5fe6c3bad57d73641778728d2b4a43a90",
+ "sha256": "e685385c6e0ecb0e6fe4443b6eb96d0a8c5bd92338573e5ce4adb9ed4f7f1d00",
+ "signature": "754a10953891d1797d5c4f7740a6ac5f40a4aa38feb1be5c9417f998a2a332482145498fd6f4ee05f058103dc740bdcfc18ad869581aafe50a4439beabff369c",
  "size": 749588,
  "url": "https://github.com/KMC-Workshop2024/KMFirmware/releases/download/v2.0.3/KMModule-2.0.3.fw",
  "version": "2.0.3"
