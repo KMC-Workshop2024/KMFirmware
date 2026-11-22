@@ -1,7 +1,12 @@
 {
  "date": "2026-11-22",
- "envelopes": "envelopes/2.0.4/",
+ "envelopes": "envelopes/2.0.5/",
  "history": [
+  {
+   "notes": "notes/2.0.5.md",
+   "notes_sha256": "e2ec51eeb0f26fa6318bf93b8a17c413b00029816c28ec6171f6a7907964c34d",
+   "version": "2.0.5"
+  },
   {
    "notes": "notes/2.0.4.md",
    "notes_sha256": "a742b4ac45e18e52de3336a78854a7a5bdaad3967f69bd10a76d6875ea332bb8",
@@ -30,11 +35,11 @@
  ],
  "min_app": "2.1.19",
  "modules": 1,
- "notes": "notes/2.0.4.md",
- "notes_sha256": "a742b4ac45e18e52de3336a78854a7a5bdaad3967f69bd10a76d6875ea332bb8",
- "sha256": "a28c919f540acf66a5d4ea1352d9d879c53911bdb762fcadd6129e88a117d5d3",
- "signature": "76b0f2e77305e8b817d5036229290fb5cdea6d476e6b155a0643cec829bf9b42170e3b56ff06e1c46a6accf2d4f83a3ec401d0b94ed7089d5f380c34121eb3fa",
- "size": 749748,
- "url": "https://github.com/KMC-Workshop2024/KMFirmware/releases/download/v2.0.4/KMModule-2.0.4.fw",
- "version": "2.0.4"
+ "notes": "notes/2.0.5.md",
+ "notes_sha256": "e2ec51eeb0f26fa6318bf93b8a17c413b00029816c28ec6171f6a7907964c34d",
+ "sha256": "cb62dc9ca3f328659ad459a64a395f9c4eee92898ddb8af2713a1c47fb9c4949",
+ "signature": "6afa5990b34f292420ce67a536f6f202526a2b1b941eba9d436cfcd86a07fb0e44b90f12510096dc877fec61b7ed693053210036b82966e517b9d59655010400",
+ "size": 749780,
+ "url": "https://github.com/KMC-Workshop2024/KMFirmware/releases/download/v2.0.5/KMModule-2.0.5.fw",
+ "version": "2.0.5"
 }
