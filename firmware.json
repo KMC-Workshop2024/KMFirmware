@@ -34,11 +34,11 @@
   }
  ],
  "min_app": "2.1.19",
- "modules": 2,
+ "modules": 3,
  "notes": "notes/2.0.5.md",
  "notes_sha256": "e2ec51eeb0f26fa6318bf93b8a17c413b00029816c28ec6171f6a7907964c34d",
- "sha256": "23774827cd1a481cd076bd04fae9ad95c8c444a412d99aec1658340b7979766e",
- "signature": "92bfe3afb42d06505407d9f9f062d851823d11a6789895e2f7ae670cf89974be39c7a8fbf746cc875eaae412d6b6ebf2b20c54a50c8c30cd28059709b56028f1",
+ "sha256": "45dc923a61afca6dcc86d859c416afb13dce6551c8c0559ceffa73c6fc989d39",
+ "signature": "b5f19446f073cec55573a3a61e5128ccdee9e9691ae5c1e5762bd31b27b27a7465feb5a1aa61f8bdbb65ec2e6d982d394fb46d6e4a4f6d4beb844e01d34e0193",
  "size": 749780,
  "url": "https://github.com/KMC-Workshop2024/KMFirmware/releases/download/v2.0.5/KMModule-2.0.5.fw",
  "version": "2.0.5"
